@@ -81,6 +81,14 @@ These are selected using `val % 3`.
 
 ---
 
+## Visual Output
+
+
+
+https://github.com/user-attachments/assets/eecb7b7c-bdad-4560-a543-36f9f2580df7
+
+
+
 ## How to Run
 
 ### Requirements
